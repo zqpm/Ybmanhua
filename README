@@ -1,3 +1,5 @@
 2011/10/05  Directory "Ybmanhua" created.
 2011/10/05  Add the description of how to use in Ybmanhua.sh.
 2011/10/05  Ybmanhua.sh is temporarily for downloading Magica Pretty Bell.
+2011/10/07  Add the variable PAGE and use infinite loop.
+            I think I have to crash it and get another way.

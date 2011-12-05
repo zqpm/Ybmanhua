@@ -3,3 +3,10 @@
 2011/10/05  Ybmanhua.sh is temporarily for downloading Magica Pretty Bell.
 2011/10/07  Add the variable PAGE and use infinite loop.
             I think I have to crash it and get another way.
+2011/12/05  GetWebInfo.sh is a nearly compact program, but mechanism is not 
+            already compact.
+            D_Ybmanhua.sh is for single, specific comic.
+            D_Ybmanhua.sh is part of GetWebInfo.sh
+
+            www.ybmanhua.com said it will be closed, so this project won't 
+            be updated for original purpose anymore.
